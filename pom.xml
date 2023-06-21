@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>Spring_Boot_3-1-2</artifactId>
+  <artifactId>Spring_Boot_CRUD</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Spring_Boot_3-1-2 Maven Webapp</name>
+  <name>Spring_Boot_CRUD Maven Webapp</name>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
